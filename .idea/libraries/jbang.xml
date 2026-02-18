@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jbang">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.jbang/jbang.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
